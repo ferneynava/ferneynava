@@ -1,1 +1,3 @@
-### Hi, I'm Ferney Nava👨‍🏫🚀
+### Hola, soy Ferney Nava👨‍🏫🚀
+
+👨‍🏫Licenciado en Electrónica. 
