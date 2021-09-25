@@ -1,1 +1,1 @@
-### Hi there 👨‍🏫🚀, im Ferney Nava 
+### Hi, I'm Ferney Nava👨‍🏫🚀
