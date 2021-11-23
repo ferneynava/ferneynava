@@ -8,7 +8,7 @@
 🛠🚀En mi tiempo libre, creo proyectos para practicar mis habilidades.<br />
 👩‍🏫Educador en el ámbito de la educación básica y media a nivel de formación tecnología e informática.<br /> 
 
-💙Contacto
+💙Contacto <br />
 🌍Linkedin: linkedin.com/in/ferney-alexander-nava-trujillo-0478a8118
 
 
