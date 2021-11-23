@@ -9,7 +9,7 @@
 👩‍🏫Educador en el ámbito de la educación básica y media a nivel de formación tecnología e informática.<br /> 
 
 💙Contacto <br />
-🌍Linkedin: linkedin.com/in/ferney-alexander-nava-trujillo-0478a8118
+🌍Linkedin: [Ferneynava](https://www.linkedin.com/in/ferney-alexander-nava-trujillo-0478a8118/)
 
 
 
