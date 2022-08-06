@@ -15,7 +15,7 @@
    </a>
 </p>
 
-🚀Soy Licenciado en Electrónica, desarrollador frontend y educador. En mi tiempo libre, creo proyectos para practicar mis habilidades. Estoy en constante aprendizaje #NuncaParesDeAprender estudiante en Platzi 💚 escuela de Desarrollo Web y JavaScript. Tambien me gusta enseñar, soy educador en el ámbito de la educación básica y media a nivel de formación tecnología e informática. 🕵️‍♂️Busco aplicar mis conocimientos y experiencias para seguir creciendo profesionalmente. 🚀
+🚀Soy Licenciado en Electrónica, desarrollador frontend y educador. En mi tiempo libre, creo proyectos para practicar mis habilidades. Estoy en constante aprendizaje #NuncaParesDeAprender estudiante en Platzi 💚 escuela de Desarrollo Web y JavaScript. Educador en el ámbito de la educación básica y media a nivel de formación tecnología e informática. 🕵️‍♂️Busco aplicar mis conocimientos y experiencias para seguir creciendo profesionalmente. 🚀
 
 <h3>🎯Algunas tecnologías que utilizo:</h3>
   <a href=" ">
