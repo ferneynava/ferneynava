@@ -1,6 +1,6 @@
 <h1 align='center'> 🚀 ¡Hola! Soy Ferney Nava 👨‍🏫👨‍💻🚀</h1>
 
-<p align='center'> 👨‍ 🏫Licenciado en Electrónica. Desarrollador y Educador 👨‍🏫🚀⚙📕💻</p>
+<p align='center'> Licenciado en Electrónica. Desarrollador y Educador  👨‍🏫🚀⚙📕💻</p>
 
 <p align='center'> 
   <a href="https://www.linkedin.com/in/ferney-alexander-nava-trujillo-0478a8118/">
