@@ -1,6 +1,6 @@
 <h1 align='center'> 🚀 ¡Hola! Soy Ferney Nava 👨‍🏫👨‍💻🚀</h1>
 
-<p align='center'> 👨‍🏫Licenciado en Electrónica. Desarrollador y Educador 👨‍🏫🚀⚙📕💻</p>
+<p align='center'> 👨‍ 🏫Licenciado en Electrónica. Desarrollador y Educador 👨‍🏫🚀⚙📕💻</p>
 
 <p align='center'> 
   <a href="https://www.linkedin.com/in/ferney-alexander-nava-trujillo-0478a8118/">
@@ -15,7 +15,7 @@
    </a>
 </p>
 
-🚀Licenciado en Electrónica, desarrollador de software, desarrollador frontend y educador. En mi tiempo libre, creo proyectos para practicar mis habilidades. Estoy en constante aprendizaje #NuncaParesDeAprender estudiante en Platzi 💚 escuela de Desarrollo Web y JavaScript. Educador en el ámbito de la educación básica y media a nivel de formación tecnológica e informática. 🕵️‍♂️Busco aplicar mis conocimientos y experiencias para seguir creciendo profesionalmente. 🚀
+🚀Soy Licenciado en Electrónica, desarrollador de software, desarrollador frontend y educador. En mi tiempo libre, creo proyectos para practicar mis habilidades. Estoy en constante aprendizaje #NuncaParesDeAprender estudiante en Platzi 💚 escuela de Desarrollo Web y JavaScript. Educador en el ámbito de la educación básica y media a nivel de formación tecnológica e informática. 🕵️‍♂️Busco aplicar mis conocimientos y experiencias para seguir creciendo profesionalmente. 🚀
 
 <h3>🎯Algunas tecnologías que utilizo:</h3>
   <a href=" ">
