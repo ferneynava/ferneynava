@@ -1,3 +1,5 @@
+![perfil Léame de github](https://user-images.githubusercontent.com/43612075/195650611-a7894f3a-1694-4211-80d3-5ecd45c0a8d4.png)
+
 <h1 align='center'> 🚀 ¡Hola! Soy Ferney Nava 👨‍🏫👨‍💻🚀</h1>
 
 <p align='center'> Licenciado en Electrónica. Desarrollador y Educador  👨‍🏫🚀⚙📕💻</p>
