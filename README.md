@@ -1,4 +1,4 @@
-![perfil Léame de github](https://user-images.githubusercontent.com/43612075/195650611-a7894f3a-1694-4211-80d3-5ecd45c0a8d4.png)
+![perfil Léame de github](https://user-images.githubusercontent.com/43612075/206007463-0518ed6e-c587-437d-9336-c4157f3d51be.png)
 
 <h1 align='center'> 🚀 ¡Hola! Soy Ferney Nava 👨‍🏫👨‍💻🚀</h1>
 
