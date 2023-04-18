@@ -9,7 +9,7 @@
   
 </p>
 
-🚀Soy Licenciado en Electrónica y Desarrollador de Software con habilidades en Front-end. Educador en tecnología e informática y áreas afines, con experiencia en la industria tecnológica. Busco aplicar mis habilidades en el crecimiento profesional continuo. Apasionado por la robótica y el desarrollo de videojuegos con Unity. Creo en el poder transformador de las TIC en la educación. Responsable, autodidacta y trabajo bien en equipo. Habilidades en HTML, CSS, SASS, C, C++, JavaScript, Electrónica, Robótica, Git, GitHub, Arduino y Unity. 🚀 #NuncaParesDeAprender
+🚀Licenciado en Electrónica y Desarrollador de Software con habilidades en Front-end. Educador en tecnología e informática y áreas afines, con experiencia en la industria tecnológica. Apasionado por la robótica y el desarrollo de videojuegos con Unity. Creo en el poder transformador de las TIC en la educación. Responsable, autodidacta y trabajo bien en equipo. Habilidades en HTML, CSS, SASS, C, C++, JavaScript, Electrónica, Robótica, Git, GitHub, Arduino y Unity. 🚀 #NuncaParesDeAprender
 
 <h3>🎯Algunas tecnologías que utilizo:</h3>
   <a href=" ">
