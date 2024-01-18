@@ -4,14 +4,20 @@
 
 <h1 align='center'> 🚀 ¡Hola! Soy Ferney Nava 👨‍🏫👨‍💻🚀</h1>
 
-<p align='center'> 
-  <a href="https://www.linkedin.com/in/ferney-alexander-nava-trujillo-0478a8118/">
+
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
+</div>
+
+<div id="header" align="center">
+   <a href="https://www.linkedin.com/in/ferney-alexander-nava-trujillo-0478a8118/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
-</p>
+</div>
 
-🚀Licenciado en Electrónica y Desarrollador de Software con habilidades en Front-end. Educador en tecnología e informática y áreas afines, con experiencia en la industria tecnológica. Creo en el poder transformador de las TIC en la educación. Responsable, autodidacta y trabajo bien en equipo. Habilidades en HTML, CSS, SASS, C, C++, JavaScript, Electrónica, Robótica, Git, GitHub, Arduino y Unity. 🚀 #NuncaParesDeAprender
+
+🚀Licenciado en electrónica, desarrollador de Software con habilidades en Front-End, una amplia experiencia en los campos de la educación y la industria tecnológica desarrollando proyectos personales.
+Además de mi rol como profesional en desarrollo de software, también me he desempeñado como educador en tecnología, informática, matemáticas y áreas afines. Habilidades en HTML, CSS, SASS, C, C++, JavaScript, Git, GitHub, Figma, Robótica, Electrónica, Robótica, Arduino y Unity.🚀 #NuncaParesDeAprender
 
 <h3>🎯Algunas tecnologías que utilizo:</h3>
   <a href=" ">
@@ -36,5 +42,8 @@
   </a>
 
 
+![FerneyDev GitHub stats](https://github-readme-stats.vercel.app/api?username=ferneynava&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferneynava&layout=compact&theme=dark)
 
 
