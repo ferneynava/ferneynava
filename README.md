@@ -41,6 +41,7 @@ Además de mi rol como profesional en desarrollo de software, también me he des
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>  
   </a>
 
+<h3>🎯Las estadisticas del repositorio:</h3>
 
 ![FerneyDev GitHub stats](https://github-readme-stats.vercel.app/api?username=ferneynava&show_icons=true&theme=dark)
 
