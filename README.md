@@ -16,8 +16,12 @@
 </div>
 
 
-🚀Licenciado en electrónica, desarrollador de Software con habilidades en Front-End, una amplia experiencia en los campos de la educación y la industria tecnológica desarrollando proyectos personales.
-Además de mi rol como profesional en desarrollo de software, también me he desempeñado como educador en tecnología, informática, matemáticas y áreas afines. Habilidades en HTML, CSS, SASS, C, C++, JavaScript, Git, GitHub, Figma, Robótica, Electrónica, Robótica, Arduino y Unity.🚀 #NuncaParesDeAprender
+🚀Licenciado en electrónica y desarrollador de Software con una sólida formación en el ámbito tecnológico, he cultivado habilidades significativas a través de proyectos personales y profesionales innovadores. Estos proyectos demuestran mi capacidad para aplicar conocimientos técnicos en un entorno práctico y mi compromiso con la mejora continua.
+
+Mi trayectoria no se limita únicamente al desarrollo de software; también he desempeñado un papel fundamental en el ámbito educativo. Como educador, he compartido mis conocimientos en tecnología, informática, matemáticas y disciplinas relacionadas, contribuyendo al crecimiento académico de mis estudiantes.
+
+Esta combinación de habilidades técnicas y experiencia educativa me ha permitido destacarme en la intersección entre la teoría y la aplicación práctica. Este sitio web es un ejemplo de mi trabajo. Aquí encontrarás información sobre mi formación académica, mis habilidades y mis proyectos. Si deseas saber más sobre mí, no dudes en contactarme.
+Habilidades en HTML, CSS, SASS, C, C++, JavaScript, Git, GitHub, Figma, Robótica, Electrónica, Robótica, Arduino y Unity.
 
 <h3>🎯Algunas tecnologías que utilizo:</h3>
   <a href=" ">
