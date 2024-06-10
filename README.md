@@ -18,7 +18,7 @@
   </a>
   
 </div>
-<iframe src="https://ferneynava.com/" width="100%" height="500px"></iframe>
+
 
 🚀Licenciado en electrónica y desarrollador de Software con una sólida formación en el ámbito tecnológico, he cultivado habilidades significativas a través de proyectos personales y profesionales innovadores. Estos proyectos demuestran mi capacidad para aplicar conocimientos técnicos en un entorno práctico y mi compromiso con la mejora continua.
 
